@@ -1,7 +1,7 @@
 # 如何配置 vue + webpack + vue-cli 环境
 
 <h2>第一步安装Node.js</h2>
-<p>检查系统是否安装Node.js 指令：<strong>node -v</strong> 如果有版本号就是安装成功，没有安装的请去<a href="https://nodejs.org/en/download/" target="_black" >Node.js官网</a>下载</p>
+<p>检查系统是否安装Node.js 指令：<strong>node -v</strong> 如果有版本号就是安装成功，没有安装的请去<a href="https://nodejs.org/en/download/" target="_blank">Node.js官网</a>下载</p>
 <br>
 <h2>第二步通过npm安装nrm来切换下载源</h2>
 <p>为什么要换,你懂的!</p>
