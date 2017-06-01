@@ -45,4 +45,6 @@
 <p>Setup e2e tests with Nightwatch? 是否安装e2e来进行用户行为模拟测试</p>
 <p>安装好了以后进入my-project目录里面指令<strong>cd my-project</strong></p>
 <p>安装项目依赖包执行指令<strong>yarn</strong></p>
+<br>
+<p>Hello Vue</p>
 
