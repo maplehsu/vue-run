@@ -10,13 +10,14 @@
 <p>切换指定的源taobao <strong>nrm use taobao </strong></p>
 <br>
 <h2>第三步npm安装yarn资源管理工具</h2>
-<p>Yarn 是 Facebook, Google, Exponent 和 Tilde 开发的一款新的 JavaScript 包管理工具。就像我们可以从官方文档了解那样，它的目的是解决这些团队使用 npm 面临的少数问题，即：</p>
+<p><p><a href="https://yarn.bootcss.com/" target="_black" >Yarn</a></p> 是 Facebook, Google, Exponent 和 Tilde 开发的一款新的 JavaScript 包管理工具。就像我们可以从官方文档了解那样，它的目的是解决这些团队使用 npm 面临的少数问题，即：</p>
 <p>安装的时候无法保证速度/一致性</p>
 <p>安全问题，因为 npm 安装时允许运行代码</p>
 <p>输入全局安装指令 <strong>npm install -g yarn</strong></p>
 <p>安装成功即可查看版本 <strong>yarn -v</strong> </p>
 <br>
 <h2>第四步npm安装webpack</h2>
+<p><a href="https://doc.webpack-china.org/guides/get-started/" target="_black" >webpack官网</a></p>
 <p>输入全局安装指令 <strong>npm install --global webpack</strong></p>
 <br>
 <h2>第五步yarn安装vue-cli脚手架</h2>
