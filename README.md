@@ -26,7 +26,7 @@
 <p>安装完毕后可执行命令 <strong>yarn vue</strong>来查看vue指令</p>
 <br>
 <h2>第六步初始化vue项目</h2>
-<p>使用yarn init指令初始化项目<strong>yarn vue init &lt;template-name&gt; &lt;my-project&gt;</strong></p>
+<p>使用yarn init指令初始化项目<strong>vue init &lt;template-name&gt; &lt;my-project&gt;</strong></p>
 <p>&lt;template-name&gt;表示模板名称，vue-cli官方为我们提供了5种模板</p>
 <p>使用指令<strong>vue list</strong>来查看5个模板名字和描述</p>
 <p>1.&lt;webpack&gt;一个全面的webpack+vue-loader的模板，功能包括热加载，linting,检测和CSS扩展</p>
