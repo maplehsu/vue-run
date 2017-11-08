@@ -23,7 +23,7 @@
 <h2>第五步yarn安装vue-cli脚手架</h2>
 <p>为什么要用vue-cli? vue-cli用于自动生成vue.js模板工程</p>
 <p>输入全局安装指令 <strong>yarn global add vue-cli</strong></p>
-<p>安装完毕后可执行命令 <strong>yarn vue</strong>来查看vue指令</p>
+<p>安装完毕后可执行命令 <strong>vue</strong>来查看vue指令</p>
 <br>
 <h2>第六步初始化vue项目</h2>
 <p>使用yarn init指令初始化项目<strong>vue init &lt;template-name&gt; &lt;my-project&gt;</strong></p>
